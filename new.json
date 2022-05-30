@@ -1,7 +1,7 @@
 {
   "first_name" : "John",
   "last_name"  : "Smith",
-  "age" : "31",
+  "age" : 31,
   "number_of_pets" : 1,
   "expected_salary" : 500
 }
