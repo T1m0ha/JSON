@@ -1,8 +1,8 @@
 {
   "first_name" : "John",
-  "last name"  : "Smith",
+  "last_name"  : "Smith",
   "age" : "31",
-  "number of pets" : 1,
-  "expected salary" : 500
+  "number_of_pets" : 1,
+  "expected_salary" : 500
 }
 
